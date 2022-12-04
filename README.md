@@ -1,2 +1,2 @@
 # adventofcode.com_2022
-solutions
+task solutions of https://adventofcode.com/ in 2022
